@@ -1,6 +1,7 @@
 # 🎮 Connect 4 Game - Multiplayer
 
 A real-time multiplayer Connect 4 game with Socket.IO, MongoDB leaderboard, and AI bot opponent.
+Github url:https://github.com/amitgithub947/Game-4-in-row
 
 ## 🚀 Features
 
